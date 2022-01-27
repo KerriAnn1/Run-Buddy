@@ -73,7 +73,7 @@ section  {
 
 /* Hero Style Start */
 .hero {
-    background-image: url("hero-bg.jpg");
+    background-image: url(hero-bg-reverse.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -104,7 +104,7 @@ section  {
 }
 
 .form-input {
-    boarder: 1px solid #024e76;
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;

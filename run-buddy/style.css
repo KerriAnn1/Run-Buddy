@@ -15,7 +15,7 @@ style.css
   }
 
   .hero .hero-secondary {
-    background-image: url(hero-bg.jpg);
+    background-image: url(hero-bg-reverse.jpg);
     height: auto;
     background-size: cover;
     background-position: bottom;
@@ -25,13 +25,13 @@ style.css
 }
 
   .page-title {
-      color: #fce138,
-      display: inline-block,
-      border-bottom: 4px solid #fce138,
-      padding: 0 80px 15px 80px,
-      font-weight: normal,
-      font-size: 42px,
-      font-style: italic,
+      color: #fce138;
+      display: inline-block;
+      border-bottom: 4px solid #fce138;
+      padding: 0 80px 15px 80px;
+      font-weight: normal;
+      font-size: 42px;
+      font-style: italic;
 
   }
 
@@ -58,6 +58,6 @@ style.css
  }
 
  .secondary-content .li {
-     color: #39a6b2,
-     margin: 10px 0 10px 0,
+     color: #39a6b2;
+     margin: 10px 0 10px 0;
  }
